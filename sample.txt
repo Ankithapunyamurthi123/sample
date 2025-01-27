@@ -2,3 +2,6 @@ ankitha 123
 somethingi
 merged one
 
+this is added in bare repo
+
+
